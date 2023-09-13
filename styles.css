@@ -1,0 +1,50 @@
+.odin {
+    background-color: rgba(249, 113, 174, 0.835);
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body {
+    text-align: center;
+}
+
+.lspan {
+    background-color: rgba(248, 160, 97, 0.835);
+}
+
+.cspan {
+    background-color: rgba(182, 65, 225, 0.835);
+}
+
+.ospan {
+    background-color: rgba(241, 91, 193, 0.835);
+}
+
+.bspan {
+    background-color: rgba(54, 240, 69, 0.835);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+.bold {
+    font-weight: bold;
+    background-color: rgba(192, 107, 17, 0.835);
+}
+
+.nspan {
+    background-color: rgba(240, 36, 36, 0.835);
+}
