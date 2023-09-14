@@ -1,5 +1,12 @@
+.outside_border { 
+    border: 10px solid rgb(236, 79, 244);
+}
+
 .odin {
     background-color: rgba(249, 113, 174, 0.835);
+    padding: 10px;
+    border: 5px dotted purple;
+    margin: 10px;
 }
 
 h1 {
@@ -40,6 +47,16 @@ ul, ol {
     list-style-position: inside;
 }
 
+.homepage_list {
+    list-style: none;
+}
+
+.homepage_list li {
+    display: inline;
+    border: 2px solid rebeccapurple;
+    padding: 0.5rem;
+
+}
 .bold {
     font-weight: bold;
     background-color: rgba(192, 107, 17, 0.835);
